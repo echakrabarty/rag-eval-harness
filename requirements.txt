@@ -1,0 +1,6 @@
+numpy
+pandas
+scikit-learn
+# Optional upgrades:
+# sentence-transformers   # embedding-based answer relevance
+# openai                  # LLM-as-judge faithfulness / real generator

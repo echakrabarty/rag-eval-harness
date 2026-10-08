@@ -1,0 +1,8 @@
+Answer the question using ONLY the context below. Ground every claim in the provided context and cite the chunk ID (for example [c3]) for each fact you use. If the context does not contain the answer, say "I don't know based on the provided context."
+
+Context:
+{{context}}
+
+Question: {{question}}
+
+Answer:
